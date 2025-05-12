@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="test4">
+        <classes><class name="testNg.priority"></class></classes>
+    </test>
+    <test name="test5">
+        <classes><class name="testNg.annotations"></class></classes>
+    </test>
+</suite>
